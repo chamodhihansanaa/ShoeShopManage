@@ -13,18 +13,18 @@ JS
 Spring Boot
 
 ## UI
-Index Page  :
-Loging Page :
-Customer Manage :
-Employee Manage :
-Supplier Manage :
-Inventory Manage :
-Sale Service :
-User Dashboard :
-Admin Dashboard :
-User Profile Details :
-User Customer Details :
-User Sale Service Details:
+#### Index Page  :
+#### Loging Page :https://github.com/chamodhihansanaa/ShoeShopManage/blob/main/WhatsApp%20Image%202025-04-13%20at%2010.43.48.jpeg?raw=true
+#### Customer Manage :
+#### Employee Manage :
+#### Supplier Manage :
+#### Inventory Manage :
+#### Sale Service :
+#### User Dashboard :
+#### Admin Dashboard :
+#### User Profile Details :
+#### User Customer Details :
+#### User Sale Service Details:
 
 
 
